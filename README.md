@@ -33,6 +33,11 @@ Uma coleção de **Skills especializadas para Agentes de Codificação de IA** (
 
 ---
 
+## 📋 Protocolo Operacional Geral: [`AGENTS.md`](./AGENTS.md)
+O arquivo [`AGENTS.md`](./AGENTS.md) incluso neste repositório define o ciclo de vida completo de desenvolvimento com agentes (**Início, Meio e Fim**), orquestrando o framework [Reversa](https://github.com/sandeco/reversa) (da engenharia reversa de especificações SDD até a implementação via ciclo forward) e aplicando as diretrizes globais de economia de tokens.
+
+---
+
 ## 🚀 Como Instalar e Usar
 
 ### Instalação Global (Antigravity)
